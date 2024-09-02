@@ -60,7 +60,7 @@ module.exports = {
 
       const totalCommands = commands.size;
       msg += ``;
-      msg += `\n\n👾 | 𝗧𝗔𝗡𝗝𝗜𝗥𝗢 𝗞𝗔𝗠𝗔𝗗𝗢\n𝗕𝗬 𝗦𝗬𝗠𝗘𝗥 𝗦𝗧𝗘𝗩𝗘\n𝗧𝗼𝘁𝗮𝗹 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 » ${totalCommands}`; // its not decoy so change it if you want 
+      msg += `\n\n👾 | Nah I'd win\n𝗕𝗬 Austine Salvador\n𝗧𝗼𝘁𝗮𝗹 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 » ${totalCommands}`; // its not decoy so change it if you want 
 
       await message.reply(msg);
     } else {
