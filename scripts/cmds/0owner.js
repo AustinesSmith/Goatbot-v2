@@ -16,12 +16,12 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      ɴᴀᴍᴇ: 'ᴋɪʀᴏ ᴀᴋᴀʀɪ',
+      ɴᴀᴍᴇ: 'austine salvador',
       ɢᴇɴᴅᴇʀ: 'Male',
-      aɢe: '15',
+      aɢe: '18',
       ʜᴇɪɢʜᴛ: 'sᴀᴍᴇ sᴀ ʜᴇɪɢʜᴛ ᴍᴏ',
       ғᴀᴄᴇʙᴏᴏᴋʟɪɴᴋ: 'ʙᴇʙᴇ ᴛɪᴍᴇ ᴍᴜɴᴀ ᴍᴡᴀ',
-      ɴɪᴄᴋ: 'ᴛᴀɴᴊɪʀᴏ ᴋᴀᴍᴀᴅᴏ'
+      ɴɪᴄᴋ: 'call me baby😜'
     };
 
     const bold = 'https://i.imgur.com/DDO686J.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
